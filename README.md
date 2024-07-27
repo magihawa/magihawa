@@ -9,11 +9,10 @@
 - Хочу построить дерево, посадить дом и вырастить сына.
 
 
-### 📚 **СТЭК НАВЫКОВ:**
+### 📚 **СТОПКА УМЕНИЙ:**
 
 ![Русский](https://img.shields.io/badge/Русский-indigo)
 ![English](https://img.shields.io/badge/English-indigo)
-
 ![Git/Github](https://img.shields.io/badge/Git/GitHub-seagreen)
 ![Postman](https://img.shields.io/badge/POSTMAN-gold)
 ![DevTools](https://img.shields.io/badge/DevTools-gold)
