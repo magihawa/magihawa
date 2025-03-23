@@ -20,7 +20,7 @@
 ![Jira](https://img.shields.io/badge/Jira-indianred)
 ![SQL/MySQL](https://img.shields.io/badge/SQL/MySQL-teal)
 ![HTML/CSS](https://img.shields.io/badge/HTML/CSS-coral)
-
+![Figma](https://img.shields.io/badge/HTML/CSS-coral)
 
 ### 👽 **КОНТАКТЫ:**
 
